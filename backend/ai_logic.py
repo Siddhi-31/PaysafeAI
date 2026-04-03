@@ -3,7 +3,7 @@ import datetime
 import math
 
 # ─────────────────────────────────────────────
-# ZONE DEFINITIONS  (city zones like GigArmor)
+# ZONE DEFINITIONS 
 # ─────────────────────────────────────────────
 ZONES = {
     1: {"name": "Zone 1 – Whitefield",    "base_risk": 20, "base_premium": 60},
